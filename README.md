@@ -1,4 +1,5 @@
-Olá, sou a Maria Clara 👋
+Olá, sou a Maria Clara 
+
 👩‍💻 Sobre mim
 Sou estudante de Tecnologia em Inteligência Artificial no Senai Fatesg, atualmente no 2º período. Minha jornada na tecnologia é movida pela paixão em criar soluções que transformam a vida das pessoas. Além de IA, tenho um grande interesse em áreas como:
 
